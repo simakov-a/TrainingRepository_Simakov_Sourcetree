@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository_Simakov_Sourcetree"]
+	path = SubmoduleRepository_Simakov_Sourcetree
+	url = git@github.com:simakov-a/SubmoduleRepository_Simakov_Sourcetree.git
